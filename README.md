@@ -1,5 +1,17 @@
 # Machine-Learning-Model-Implementation
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: MANASA.S
+
+*INTERN ID*: CT04WT288
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 ## Explanation
 
 1. **Data Loading and Exploration**: 
